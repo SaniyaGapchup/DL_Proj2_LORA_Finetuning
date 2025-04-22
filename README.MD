@@ -34,7 +34,7 @@ Lower ranks (e.g. 2) under‑fit, while higher ranks (≥ 8) yield only marg
 
 ## 📉 Loss Curves
                                                                                                                                                                                                
-![Training & Validation Loss](./loss_curves.png)
+![Training & Validation Loss](./roberta_agnews_finetuned/loss_curves.png)
 
 The plot above tracks training and validation loss over 2 000 steps.  Validation loss consistently stays below training loss, signalling healthy generalisation and the regularising effect of LoRA.
 
