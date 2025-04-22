@@ -90,6 +90,10 @@ The notebook continues to keep **validation** and **test** data strictly separat
 
 Evaluating on the full test corpus confirms the model generalises well; scores fall in the 88-89 % band depending on random seed.
 
+## Teammates
+
+- Saniya Gapchup, Sakshi Bhavsar, Samradnyee Shinde
+
 ## ✨ Acknowledgements
 
 - **Hugging Face** community for datasets and tooling.
